@@ -1,0 +1,16 @@
+fn main (){
+    println!("Cac loai ghi chu :");
+    println!("// la ghi chu dong");
+    println!("/*...*/ la ghi chu nhieu dong(block)");
+    
+    // println!("Hello, world! lan 2");
+    println!("Hello, world! lan 2");
+
+    /*
+        In ra Hello
+        In ra World!
+    */
+    println!("Hello");
+    println!("World!");
+
+}

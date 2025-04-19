@@ -1,0 +1,4 @@
+fn main() {
+    print!("print!   -> Chi hien thi ket qua ra terrminal ma khong xuong dong.");
+    println!(" println! -> Hien thi ket qua ra terrminal, dong thoi them ky tu xuong dong");
+}

@@ -1,0 +1,10 @@
+fn main() {
+    //  In ra terminal Hello, World! sau khi chay cargo run
+    println!("Hello, world!");
+    println!("Tao project:                     cargo new project");
+    println!("Di chuyen vao du an vua tao:     cd name_project");
+    println!("Check project:                   cargo check");
+    println!("Chay Project:                    cargo run");
+    println!("Build Project:                   cargo build");
+    println!("Ham main la ham thuc hien dau tien");
+}
