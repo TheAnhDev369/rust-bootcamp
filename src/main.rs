@@ -129,4 +129,7 @@ fn main() {
     println!("{}", first);
     println!("Mảng trong Rust có số phần tử cố định, và tất cả các phần tử PHẢI CÙNG KIỂU.");
     println!("Đặc điểm: cố định kích thước, cùng kiểu dữ liệu.");
+
+    println!("Part 1");
+    println!("");
 }
